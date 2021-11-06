@@ -1,0 +1,85 @@
+body {
+    width: 600px;
+  }
+  
+  .weather-section {
+    border: 1px solid #e5e5e5;
+    padding: 15px;
+    margin: 20px;
+    max-width: 600px;
+    border-radius: 12px;
+    background-color: #ebcda893;
+  }
+  
+  .fa-cloud-sun {
+    font-size: 80px;
+    position: relative;
+    left: 20px;
+    color: white;
+  }
+  
+  h1 {
+    font: bold;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    color: #cd7710;
+    padding: 10px;
+    font-size: 40px;
+  }
+  
+  li {
+    list-style: none;
+    color: #9f9a94;
+  }
+  
+  .current-day {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  
+  .date {
+    text-align: center;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  
+  .temperature {
+    font-size: 50px;
+    font-weight: 500px;
+    color: #9f9a94;
+    position: relative;
+    top: -10px;
+    left: 20px;
+  }
+  
+  .degrees {
+    text-align: right;
+    position: relative;
+    font-size: 15px;
+    top: -20px;
+    font-family: "Franklin Gothic Medium";
+    color: #9f9a94;
+  }
+  
+  .pronostic {
+    position: relative;
+    color: #9f9a94;
+    font-weight: bold;
+    position: relative;
+    top: -40px;
+    left: 20px;
+    font-size: 20px;
+  }
+  
+  .card {
+    font-family: "Franklin Gothic Medium";
+    text-align: center;
+    background-color: #ebcda8e3;
+    color: #666462;
+  }
+  
+  .weath-emoji {
+    font-size: 30px;
+    color: #8d8985;
+  }
+  
